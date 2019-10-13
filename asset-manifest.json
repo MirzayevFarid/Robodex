@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/robodex/static/css/main.a91293f4.chunk.css",
+    "main.js": "/robodex/static/js/main.8e3aeb3f.chunk.js",
+    "main.js.map": "/robodex/static/js/main.8e3aeb3f.chunk.js.map",
+    "runtime-main.js": "/robodex/static/js/runtime-main.39b39466.js",
+    "runtime-main.js.map": "/robodex/static/js/runtime-main.39b39466.js.map",
+    "static/js/2.bd80bf19.chunk.js": "/robodex/static/js/2.bd80bf19.chunk.js",
+    "static/js/2.bd80bf19.chunk.js.map": "/robodex/static/js/2.bd80bf19.chunk.js.map",
+    "index.html": "/robodex/index.html",
+    "precache-manifest.6bafcb73b22239447a4e494617f9351b.js": "/robodex/precache-manifest.6bafcb73b22239447a4e494617f9351b.js",
+    "service-worker.js": "/robodex/service-worker.js",
+    "static/css/main.a91293f4.chunk.css.map": "/robodex/static/css/main.a91293f4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b39466.js",
+    "static/js/2.bd80bf19.chunk.js",
+    "static/css/main.a91293f4.chunk.css",
+    "static/js/main.8e3aeb3f.chunk.js"
+  ]
+}
